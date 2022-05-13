@@ -25,5 +25,5 @@ while True:
         f = open(newtarget, 'x')
         f.write(core_set+path)
         f.close()
-        window.['msg'].Update(visible=True)
+        window['msg'].Update(visible=True)
 window.close()
