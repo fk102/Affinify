@@ -25,4 +25,4 @@ while True:
         f = open(newtarget, 'x')
         f.write(core_set+path)
         f.close()
-        window.close()
+window.close()
