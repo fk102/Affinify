@@ -6,7 +6,7 @@ layout = [[sg.Text("Time to optimize your programs!")],
           [sg.Input("Select shorcut save location", key='-IN-'),
            sg.FolderBrowse("Browse")],
           [sg.Input("Select location of the program", key="-out-"),
-           sg.FileBrowse("Browse")], [sg.Input("Enter Shortcut name", key="name")]
+           sg.FileBrowse("Browse")], [sg.Input("Enter Shortcut name", key="name")],
           [sg.Button("Optimize")]]
 
 window = sg.Window("Program", layout)
@@ -20,6 +20,9 @@ while True:
         target = values["-IN-"]
         path = values["-out-"]
         name = '/'+values["name"]+'.bat'
-        print(target)
-        print(path)
+        newtarget = target+name
+        print(newtarget)
+        f = open(newtarget, 'x')
+        f.write(core_set+path)
+        f.close()
 window.close()
