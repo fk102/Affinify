@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['source\\Affinify.py'],
+a = Analysis(['Source\\Affinify.py'],
              pathex=['C:\\Users\\Fayyadh Kabir\\Documents\\python\\projects\\for fun\\Optimizer'],
              binaries=[],
              datas=[],

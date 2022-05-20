@@ -1,6 +1,22 @@
 ('C:\\Users\\Fayyadh Kabir\\Documents\\python\\projects\\for '
  'fun\\Optimizer\\build\\Affinify\\PYZ-00.pyz',
- [('_strptime',
+ [('copy',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_strptime',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
    'PYMODULE'),
@@ -28,9 +44,37 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
    'PYMODULE'),
-  ('copy',
+  ('bz2',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
    'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\fayyadh '
@@ -80,21 +124,9 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
    'PYMODULE'),
-  ('contextlib',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
-   'PYMODULE'),
   ('logging',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
-   'PYMODULE'),
-  ('threading',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
-   'PYMODULE'),
-  ('_threading_local',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
    'PYMODULE'),
   ('string',
    'c:\\users\\fayyadh '
@@ -111,10 +143,6 @@
   ('pdb',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\pdb.py',
-   'PYMODULE'),
-  ('getopt',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('pydoc',
    'c:\\users\\fayyadh '
@@ -152,17 +180,9 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
    'PYMODULE'),
-  ('_compression',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
-   'PYMODULE'),
   ('lzma',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
-   'PYMODULE'),
-  ('bz2',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
    'PYMODULE'),
   ('stat',
    'c:\\users\\fayyadh '
@@ -220,10 +240,6 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
-  ('base64',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
-   'PYMODULE'),
   ('email.charset',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
@@ -267,10 +283,6 @@
   ('email.feedparser',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
-   'PYMODULE'),
-  ('quopri',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
    'PYMODULE'),
   ('uu',
    'c:\\users\\fayyadh '
@@ -535,18 +547,6 @@
   ('fnmatch',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
-   'PYMODULE'),
-  ('typing',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
-   'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\fayyadh '
