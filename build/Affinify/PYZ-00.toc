@@ -1,14 +1,6 @@
 ('C:\\Users\\Fayyadh Kabir\\Documents\\python\\projects\\for '
  'fun\\Optimizer\\build\\Affinify\\PYZ-00.pyz',
- [('copy',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
-   'PYMODULE'),
-  ('typing',
+ [('typing',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
    'PYMODULE'),
@@ -16,25 +8,17 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
    'PYMODULE'),
-  ('_strptime',
+  ('copy',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
    'PYMODULE'),
-  ('datetime',
+  ('quopri',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
    'PYMODULE'),
-  ('calendar',
+  ('getopt',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
-   'PYMODULE'),
-  ('argparse',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
-   'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('gettext',
    'c:\\users\\fayyadh '
@@ -56,17 +40,29 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
    'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
   ('_compression',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
-   'PYMODULE'),
-  ('quopri',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
-   'PYMODULE'),
-  ('getopt',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('stringprep',
    'c:\\users\\fayyadh '
@@ -76,17 +72,13 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('tokenize',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
    'PYMODULE'),
-  ('pickle',
+  ('token',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
-   'PYMODULE'),
-  ('pprint',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
    'PYMODULE'),
   ('doctest',
    'c:\\users\\fayyadh '
@@ -95,6 +87,22 @@
   ('unittest',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
    'PYMODULE'),
   ('unittest.signals',
    'c:\\users\\fayyadh '
@@ -116,6 +124,14 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\loader.py',
    'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
   ('unittest.suite',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\suite.py',
@@ -124,13 +140,21 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
    'PYMODULE'),
+  ('pprint',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
   ('logging',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
    'PYMODULE'),
-  ('string',
+  ('pickle',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\fayyadh '
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
    'PYMODULE'),
   ('unittest.result',
    'c:\\users\\fayyadh '
@@ -183,10 +207,6 @@
   ('lzma',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
-   'PYMODULE'),
-  ('stat',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
    'PYMODULE'),
   ('email.message',
    'c:\\users\\fayyadh '
@@ -304,14 +324,6 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\socketserver.py',
    'PYMODULE'),
-  ('posixpath',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('genericpath',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
-   'PYMODULE'),
   ('mimetypes',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
@@ -355,14 +367,6 @@
   ('urllib.parse',
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('tokenize',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('token',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
    'PYMODULE'),
   ('sysconfig',
    'c:\\users\\fayyadh '
@@ -536,17 +540,13 @@
    'c:\\users\\fayyadh '
    'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
    'PYMODULE'),
-  ('_compat_pickle',
+  ('_py_abc',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
    'PYMODULE'),
-  ('ntpath',
+  ('tracemalloc',
    'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'c:\\users\\fayyadh '
-   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'kabir\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\fayyadh '

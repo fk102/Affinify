@@ -25,7 +25,7 @@ layout = [[sg.Text("Time to optimize your programs!")],
               30, 15), key='slid', orientation='horizontal', font=("Helvetica", 10))],
           [sg.Button("Optimize")], [sg.Text('Optimized successfully', key='msg', visible=False)]]
 
-window = sg.Window("Program", layout)
+window = sg.Window("Affinify", layout)
 core_count = ['1', '3', '7', 'F', '1F', '3F', '7F', 'FF',
               '1FF', '3FF', '7FF', 'FFF', '1FFF', '3FFF', '7FFF', 'FFFF']
 
